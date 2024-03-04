@@ -1,1 +1,2 @@
-# BISORT-W-asne-porz-dki
+My solution to the given SPOJ problem: 
+https://pl.spoj.com/problems/BISORT/
